@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name trashcan-maxosd-adapter)(type KiCad)(uri /home/tom/code/trashcan-maxosd-adapter/src/lib/footprints/trashcan-maxosd-adapter.pretty)(options "")(descr ""))
+)
